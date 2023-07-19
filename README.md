@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/Tushardev0172/Python-Blockchain/assets/120170474/61e1a3cc-b23f-469f-bf0b-71900170d1b1)
+<img src="https://github.com/Tushardev0172/Python-Blockchain/assets/120170474/61e1a3cc-b23f-469f-bf0b-71900170d1b1" width="100%" height="400">
 
 
 
