@@ -1,6 +1,6 @@
 
-![Logo](![BLockchain](https://github.com/Tushardev0172/Python-Blockchain/assets/120170474/61e1a3cc-b23f-469f-bf0b-71900170d1b1)
-)
+![Logo](https://github.com/Tushardev0172/Python-Blockchain/assets/120170474/61e1a3cc-b23f-469f-bf0b-71900170d1b1)
+
 
 
 # Blockchain Project
