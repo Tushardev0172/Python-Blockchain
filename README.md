@@ -1,5 +1,6 @@
 
-![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQzOlJsYT0ndhIMcI_Hzk_leF_FAPh9cqzHYmzxtMRYXDqEHNEVeOAN1tsf-yLtEfqA&usqp=CAU)
+![Logo](![depositphotos_209572350-stock-illustration-block-chain-logo-illustration-block](https://github.com/Tushardev0172/Python-Blockchain/assets/120170474/a5960167-7136-4b2d-a160-6db3303c095a)
+)
 
 
 # Blockchain Project
@@ -11,7 +12,7 @@ This is a simple blockchain project implemented in Python. It consists of a bloc
 To run this project, you need to have Python and Flask installed on your system. Follow these steps to set up the project:
 
 Clone the repository to your local machine:
-- git clone https://github.com/your-username/blockchain-project.git
+- git clone https://github.com/Tushardev0172/blockchain-project.git
 
 Change into the project directory:
 - cd blockchain-project
